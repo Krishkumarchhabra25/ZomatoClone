@@ -1,10 +1,10 @@
 import Template from "@/Components/common/Template/Template";
-import Image from "next/image";
+import React from "react";
 
 export default function Home() {
   return (
-<Template>
-
-</Template>
+    <Template>
+      {/* Default Content */}
+    </Template>
   );
 }
